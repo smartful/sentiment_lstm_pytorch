@@ -11,5 +11,6 @@ Chaque exemple est une critique associée à un label : critique positive (1) ou
 ## Étapes du Notebook :
 
 - Import du dataset.
+- Mise en forme de la data.
 - Création des mini-batches sur la data.
 
