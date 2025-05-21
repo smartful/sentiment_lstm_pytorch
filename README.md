@@ -12,5 +12,12 @@ Chaque exemple est une critique associée à un label : critique positive (1) ou
 
 - Import du dataset.
 - Mise en forme de la data.
+- Tokenisation des données textuelles.
 - Création des mini-batches sur la data.
+- Création du modèle basé sur l'architecture LSTM.
+- Phase d'entraînement.
+- Visualisation des courbes de loss et d'accuracy.
+- Sauvegarde du modèle.
+- Chargement du modèle sauvegardé.
+- Réalisation des prédictions.
 
